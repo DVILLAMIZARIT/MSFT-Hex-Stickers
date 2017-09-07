@@ -1,2 +1,10 @@
 # MSFT-Hex-Stickers
-a collection of Microsoft-themed hex stickers
+
+It's very fashionable for tech folks to use hexagon-shaped stickers to tessellate their laptops.
+I wanted to create some hex stickers for fans of [Microsoft](https://github.com/microsoft) and, more specifically,
+the Microsoft Azure cloud platform.
+
+These stickers are designed to the same specifications as the excellent stickers in
+[maxogden](https://github.com/maxogden)'s [https://github.com/maxogden/hexbin](hexbin) repository.
+
+There are many places you can have these stickers printed.  I personally recommend [Sticker Mule](https://www.stickermule.com/).

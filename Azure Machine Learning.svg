@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 735 852"
+   version="1.1"
+   sodipodi:docname="Azure ML.svg"
+   inkscape:version="0.92.1 r15371"
+   inkscape:export-filename="C:\Users\jepeach\Desktop\hex\my hexes\Microsoft.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <title
+     id="title11828">Azure ML Hex</title>
+  <metadata
+     id="metadata8722">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Azure ML Hex</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3000"
+     inkscape:window-height="1875"
+     id="namedview8720"
+     showgrid="false"
+     inkscape:zoom="1.847967"
+     inkscape:cx="125.85859"
+     inkscape:cy="391.44417"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs8647">
+    <style
+       id="style8632">.cls-1{fill:none;}.cls-2{fill:#ba6f38;}.cls-3{clip-path:url(#clip-path);}.cls-4{fill:#ed7d15;}.cls-5{opacity:0.25;fill:url(#linear-gradient);}.cls-6{fill:#ac5d12;}.cls-7{clip-path:url(#clip-path-2);}.cls-8{fill:#36a85d;}.cls-9{fill:#e6b35a;}.cls-10{fill:#fff;}.cls-11{opacity:0.94;}</style>
+    <clipPath
+       id="clip-path">
+      <polygon
+         class="cls-1"
+         points="369.5 7.4 728.2 214.5 728.2 636.6 369.5 845 2.8 636.6 2.8 214.5 369.5 7.4"
+         id="polygon8634" />
+    </clipPath>
+    <linearGradient
+       id="linear-gradient"
+       x1="366.25"
+       y1="-122.39"
+       x2="367.55"
+       y2="341.13"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#fff"
+         stop-opacity="0.83"
+         id="stop8637" />
+      <stop
+         offset="0.56"
+         stop-color="#fff"
+         stop-opacity="0.37"
+         id="stop8639" />
+      <stop
+         offset="1"
+         stop-color="#fff"
+         stop-opacity="0"
+         id="stop8641" />
+    </linearGradient>
+    <clipPath
+       id="clip-path-2">
+      <polygon
+         class="cls-2"
+         points="1173.3 7.4 1532 214.5 1532 636.6 1173.3 845 806.6 636.6 806.6 214.5 1173.3 7.4"
+         id="polygon8644" />
+    </clipPath>
+  </defs>
+  <g
+     class="cls-3"
+     clip-path="url(#clip-path)"
+     id="g8655">
+    <circle
+       class="cls-4"
+       cx="365.5"
+       cy="437.39999"
+       r="442.10001"
+       id="circle8651"
+       style="fill:#002050;fill-opacity:1" />
+    <ellipse
+       class="cls-5"
+       cx="366.89999"
+       cy="105.8"
+       rx="315.20001"
+       ry="234.60001"
+       id="ellipse8653"
+       style="opacity:0.25;fill:url(#linear-gradient)" />
+  </g>
+  <path
+     class="cls-6"
+     d="M705.6,196.2L427.8,35.8,367.5,1,307.2,35.8,29.4,196.2,0.1,213.1V637.4l29.3,16.9L310.6,816.7l56.9,32.8,56.9-32.8L705.6,654.3l29.3-16.9V213.1Zm0,425.3L367.5,816.7,29.4,621.5V231L367.5,35.8h0L705.6,231V621.5Z"
+     id="path8657"
+     style="fill:#b8d432;fill-opacity:1" />
+  <g
+     transform="matrix(7.270634,0,0,7.270634,189.30991,184.4883)"
+     id="g11788">
+    <path
+       style="fill:#59b4d9"
+       inkscape:connector-curvature="0"
+       id="path11740"
+       d="M 48.288,44.623 32.72,17.659 V 6.743 h 0.281 c 1.862,0 3.372,-1.51 3.372,-3.372 C 36.373,1.509 34.863,0 33.001,0 H 16.016 c -1.862,0 -3.372,1.51 -3.372,3.372 0,1.862 1.51,3.372 3.372,3.372 h 0.281 V 17.659 L 0.729,44.623 C -0.979,47.58 0.418,50 3.833,50 h 41.351 c 3.414,0 4.811,-2.42 3.104,-5.377 z" />
+    <polygon
+       style="fill:#b8d432"
+       id="polygon11742"
+       points="41.889,44.143 35.466,33.017 13.551,33.017 7.127,44.143 " />
+    <path
+       style="fill:#7fba00"
+       inkscape:connector-curvature="0"
+       id="path11744"
+       d="m 25.334,37.532 c 1.735,0 3.141,-1.406 3.141,-3.141 0,-0.493 -0.117,-0.958 -0.32,-1.374 h -5.643 c -0.203,0.415 -0.32,0.88 -0.32,1.374 0.001,1.735 1.407,3.141 3.142,3.141 z" />
+    <circle
+       style="fill:#7fba00"
+       id="circle11746"
+       r="1.541"
+       cy="39.956001"
+       cx="29.232" />
+    <path
+       style="opacity:0.25;fill:#ffffff"
+       inkscape:connector-curvature="0"
+       id="path11748"
+       d="M 0.729,44.623 16.297,17.658 V 6.743 h -0.281 c -1.862,0 -3.372,-1.51 -3.372,-3.372 C 12.644,1.509 14.153,0 16.016,0 h 7.319 V 17.572 L 15.13,50 H 3.833 C 0.418,50 -0.979,47.58 0.729,44.623 Z" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:85.87225342px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.14680624"
+     x="203.74313"
+     y="628.26917"
+     id="text11822"><tspan
+       sodipodi:role="line"
+       id="tspan11820"
+       x="203.74313"
+       y="628.26917"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#ffffff;stroke-width:2.14680624"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Light';stroke-width:2.14680624"
+   id="tspan11826">Azure</tspan> ML</tspan></text>
+</svg>

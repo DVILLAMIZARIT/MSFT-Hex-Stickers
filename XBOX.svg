@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 735 852"
+   version="1.1"
+   sodipodi:docname="XBOX.svg"
+   inkscape:version="0.92.1 r15371"
+   inkscape:export-filename="C:\Users\jepeach\Desktop\hex\my hexes\XBOX.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <title
+     id="title10113">XBOX Hex</title>
+  <metadata
+     id="metadata8722">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>XBOX Hex</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3000"
+     inkscape:window-height="1875"
+     id="namedview8720"
+     showgrid="false"
+     inkscape:zoom="0.9239835"
+     inkscape:cx="128.5888"
+     inkscape:cy="448.39541"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs8647">
+    <style
+       id="style8632">.cls-1{fill:none;}.cls-2{fill:#ba6f38;}.cls-3{clip-path:url(#clip-path);}.cls-4{fill:#ed7d15;}.cls-5{opacity:0.25;fill:url(#linear-gradient);}.cls-6{fill:#ac5d12;}.cls-7{clip-path:url(#clip-path-2);}.cls-8{fill:#36a85d;}.cls-9{fill:#e6b35a;}.cls-10{fill:#fff;}.cls-11{opacity:0.94;}</style>
+    <clipPath
+       id="clip-path">
+      <polygon
+         class="cls-1"
+         points="369.5 7.4 728.2 214.5 728.2 636.6 369.5 845 2.8 636.6 2.8 214.5 369.5 7.4"
+         id="polygon8634" />
+    </clipPath>
+    <linearGradient
+       id="linear-gradient"
+       x1="366.25"
+       y1="-122.39"
+       x2="367.55"
+       y2="341.13"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#fff"
+         stop-opacity="0.83"
+         id="stop8637" />
+      <stop
+         offset="0.56"
+         stop-color="#fff"
+         stop-opacity="0.37"
+         id="stop8639" />
+      <stop
+         offset="1"
+         stop-color="#fff"
+         stop-opacity="0"
+         id="stop8641" />
+    </linearGradient>
+    <clipPath
+       id="clip-path-2">
+      <polygon
+         class="cls-2"
+         points="1173.3 7.4 1532 214.5 1532 636.6 1173.3 845 806.6 636.6 806.6 214.5 1173.3 7.4"
+         id="polygon8644" />
+    </clipPath>
+  </defs>
+  <g
+     class="cls-3"
+     clip-path="url(#clip-path)"
+     id="g8655"
+     style="fill:#ffffff;fill-opacity:1">
+    <circle
+       class="cls-4"
+       cx="365.5"
+       cy="437.39999"
+       r="442.10001"
+       id="circle8651"
+       style="fill:#ffffff;fill-opacity:1" />
+    <ellipse
+       class="cls-5"
+       cx="366.89999"
+       cy="105.8"
+       rx="315.20001"
+       ry="234.60001"
+       id="ellipse8653"
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1" />
+  </g>
+  <path
+     class="cls-6"
+     d="M705.6,196.2L427.8,35.8,367.5,1,307.2,35.8,29.4,196.2,0.1,213.1V637.4l29.3,16.9L310.6,816.7l56.9,32.8,56.9-32.8L705.6,654.3l29.3-16.9V213.1Zm0,425.3L367.5,816.7,29.4,621.5V231L367.5,35.8h0L705.6,231V621.5Z"
+     id="path8657"
+     style="fill:#107c10;fill-opacity:1" />
+  <path
+     class="cls-1"
+     d="m 294.73468,306.87912 a 897.31155,897.31155 0 0 0 -91.00925,130.6743 490.52444,490.52444 0 0 0 -34.59673,72.05817 119.87659,119.87659 0 0 0 -10.13663,74.48215 v 1.32217 a 1.9832524,1.9832524 0 0 1 -1.54253,0 265.97619,265.97619 0 0 1 24.01939,-349.27279 c 12.78096,-12.78096 49.14059,14.54385 58.83649,22.03614 a 541.42791,541.42791 0 0 1 54.42926,46.93697 z m 73.38034,66.10842 a 739.31244,739.31244 0 0 1 131.55575,130.01321 278.53679,278.53679 0 0 1 44.07227,72.71926 58.395766,58.395766 0 0 1 3.96651,38.56324 74.92287,74.92287 0 0 1 -31.73204,30.85059 268.40016,268.40016 0 0 1 -297.04714,0 80.431904,80.431904 0 0 1 -31.07096,-28.20625 53.327454,53.327454 0 0 1 3.30542,-37.90216 270.38342,270.38342 0 0 1 44.07228,-76.02468 737.99027,737.99027 0 0 1 132.21683,-130.45394 v 0 z M 228.62627,200.22421 v -1.32217 a 267.51872,267.51872 0 0 1 276.11281,0 v 1.32217 h -0.22036 c -45.83517,-10.35698 -97.84046,16.30675 -136.62406,37.6818 v 0 c -37.24107,-22.03614 -92.9925,-49.80167 -137.06478,-37.46144 h -2.20361 z m 316.6593,33.93566 a 16.967826,16.967826 0 0 1 7.93301,1.76289 265.97619,265.97619 0 0 1 24.90084,348.83206 2.2036138,2.2036138 0 0 1 -1.54253,0 v -0.66108 a 117.45262,117.45262 0 0 0 -9.47554,-71.17673 477.30275,477.30275 0 0 0 -35.9189,-74.48214 960.3349,960.3349 0 0 0 -91.00926,-131.77611 v 0 0 a 519.61214,519.61214 0 0 1 46.27589,-41.42794 107.53635,107.53635 0 0 1 58.83649,-31.07095 z"
+     id="path8"
+     inkscape:connector-curvature="0"
+     style="fill:#107c10;stroke-width:22.03613853" />
+</svg>

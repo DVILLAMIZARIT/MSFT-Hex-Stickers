@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 735 852"
+   version="1.1"
+   sodipodi:docname="Teams.svg"
+   inkscape:version="0.92.1 r15371">
+  <title
+     id="title10113">Teams Hex</title>
+  <metadata
+     id="metadata8722">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Teams Hex</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3000"
+     inkscape:window-height="1875"
+     id="namedview8720"
+     showgrid="false"
+     inkscape:zoom="1.847967"
+     inkscape:cx="126.42426"
+     inkscape:cy="448.39541"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4506" />
+  <defs
+     id="defs8647">
+    <style
+       id="style8632">.cls-1{fill:none;}.cls-2{fill:#ba6f38;}.cls-3{clip-path:url(#clip-path);}.cls-4{fill:#ed7d15;}.cls-5{opacity:0.25;fill:url(#linear-gradient);}.cls-6{fill:#ac5d12;}.cls-7{clip-path:url(#clip-path-2);}.cls-8{fill:#36a85d;}.cls-9{fill:#e6b35a;}.cls-10{fill:#fff;}.cls-11{opacity:0.94;}</style>
+    <clipPath
+       id="clip-path">
+      <polygon
+         class="cls-1"
+         points="369.5 7.4 728.2 214.5 728.2 636.6 369.5 845 2.8 636.6 2.8 214.5 369.5 7.4"
+         id="polygon8634" />
+    </clipPath>
+    <linearGradient
+       id="linear-gradient"
+       x1="366.25"
+       y1="-122.39"
+       x2="367.55"
+       y2="341.13"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#fff"
+         stop-opacity="0.83"
+         id="stop8637" />
+      <stop
+         offset="0.56"
+         stop-color="#fff"
+         stop-opacity="0.37"
+         id="stop8639" />
+      <stop
+         offset="1"
+         stop-color="#fff"
+         stop-opacity="0"
+         id="stop8641" />
+    </linearGradient>
+    <clipPath
+       id="clip-path-2">
+      <polygon
+         class="cls-2"
+         points="1173.3 7.4 1532 214.5 1532 636.6 1173.3 845 806.6 636.6 806.6 214.5 1173.3 7.4"
+         id="polygon8644" />
+    </clipPath>
+  </defs>
+  <g
+     class="cls-3"
+     clip-path="url(#clip-path)"
+     id="g8655"
+     style="fill:#5558af;fill-opacity:1">
+    <circle
+       class="cls-4"
+       cx="365.5"
+       cy="437.39999"
+       r="442.10001"
+       id="circle8651"
+       style="fill:#5558af;fill-opacity:1" />
+    <ellipse
+       class="cls-5"
+       cx="366.89999"
+       cy="105.8"
+       rx="315.20001"
+       ry="234.60001"
+       id="ellipse8653"
+       style="opacity:0.25;fill:#5558af;fill-opacity:1" />
+  </g>
+  <path
+     class="cls-6"
+     d="M705.6,196.2L427.8,35.8,367.5,1,307.2,35.8,29.4,196.2,0.1,213.1V637.4l29.3,16.9L310.6,816.7l56.9,32.8,56.9-32.8L705.6,654.3l29.3-16.9V213.1Zm0,425.3L367.5,816.7,29.4,621.5V231L367.5,35.8h0L705.6,231V621.5Z"
+     id="path8657"
+     style="fill:#cccce7;fill-opacity:1" />
+  <path
+     class="cls-9"
+     d="M367,633.9l0.9-.9h-0.3Z"
+     id="path8665" />
+  <g
+     transform="matrix(10.895043,0,0,10.895043,28.200772,83.046643)"
+     id="g4506-2"
+     style="fill:#000000;fill-opacity:0.26666667">
+    <polygon
+       id="polygon6-5"
+       points="11,47.5 36,53.2 36,11.2 11,16.6 "
+       class="st1"
+       style="fill:#000000;fill-opacity:0.26666667" />
+    <polygon
+       id="polygon8-5"
+       points="21,41 25,41 25,27.4 29.2,27.2 29,27.2 29,23.5 16.7,24.4 17,24.4 17,27.7 21,27.5 "
+       class="st0"
+       style="fill:#5558af;fill-opacity:1" />
+    <path
+       id="path10-9"
+       d="m 37.5,29.2 v 11.6 1.1 c 0,0 0,1.8 0,2.5 0,1 7.1,1.5 7,-2.5 v 0 -12.7 z"
+       class="st1"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:0.26666667" />
+    <circle
+       id="circle12-3"
+       r="3.5999999"
+       cy="25.799999"
+       cx="49.400002"
+       class="st1"
+       style="fill:#000000;fill-opacity:0.26666667" />
+    <path
+       id="path14-1"
+       d="m 40.4,20.1 c -1.1,0 -2.2,0.5 -2.8,1.4 V 26 c 0.7,0.8 1.7,1.4 2.8,1.4 2,0 3.6,-1.6 3.6,-3.6 0,-2 -1.6,-3.7 -3.6,-3.7 z"
+       class="st1"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:0.26666667" />
+    <path
+       id="path16-6"
+       d="m 45.9,31.4 v 7.9 2.8 c 0,0 6.9,0.3 7.1,-2.8 v 0 -7.9 z"
+       class="st1"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:0.26666667" />
+  </g>
+  <g
+     transform="matrix(10.895043,0,0,10.895043,18.858604,74.429603)"
+     id="g4506">
+    <polygon
+       id="polygon6"
+       points="36,11.2 11,16.6 11,47.5 36,53.2 "
+       class="st1"
+       style="fill:#ffffff" />
+    <polygon
+       id="polygon8"
+       points="25,27.4 29.2,27.2 29,27.2 29,23.5 16.7,24.4 17,24.4 17,27.7 21,27.5 21,41 25,41 "
+       class="st0"
+       style="fill:#5558af;fill-opacity:1" />
+    <path
+       id="path10"
+       d="m 37.5,29.2 v 11.6 1.1 c 0,0 0,1.8 0,2.5 0,1 7.1,1.5 7,-2.5 v 0 -12.7 z"
+       class="st1"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
+    <circle
+       id="circle12"
+       r="3.5999999"
+       cy="25.799999"
+       cx="49.400002"
+       class="st1"
+       style="fill:#ffffff" />
+    <path
+       id="path14"
+       d="m 40.4,20.1 c -1.1,0 -2.2,0.5 -2.8,1.4 V 26 c 0.7,0.8 1.7,1.4 2.8,1.4 2,0 3.6,-1.6 3.6,-3.6 0,-2 -1.6,-3.7 -3.6,-3.7 z"
+       class="st1"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
+    <path
+       id="path16"
+       d="m 45.9,31.4 v 7.9 2.8 c 0,0 6.9,0.3 7.1,-2.8 v 0 -7.9 z"
+       class="st1"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
+  </g>
+</svg>
