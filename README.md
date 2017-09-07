@@ -11,11 +11,11 @@ There are many places you can have these stickers printed.  I personally recomme
 
 ## Stickers in This Repo
 <div>
-<img height="98" alt="Azure Loves OSS" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Azure Loves OSS.svg?sanitize=true" /><img style="height: 2in;" alt="Azure Machine Learning" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Azure Machine Learning.svg?sanitize=true" /><img style="height: 2in;" alt="Azure" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Azure.svg?sanitize=true" /><img style="height: 2in;" alt="Microsoft" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Microsoft.svg?sanitize=true" />
+<img height="144" alt="Azure Loves OSS" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Azure Loves OSS.svg?sanitize=true" /><img height="144" alt="Azure Machine Learning" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Azure Machine Learning.svg?sanitize=true" /><img height="144" alt="Azure" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Azure.svg?sanitize=true" /><img height="144" alt="Microsoft" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Microsoft.svg?sanitize=true" />
 </div>
 <div style="padding-left: 0.865in; margin-top: -0.49in;">
-<img style="height: 2in;" alt="Ninja Cat Unicorn (8-bit)" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Ninja Cat Unicorn (8-bit).svg?sanitize=true" /><img style="height: 2in;" alt="Ninja Cat Unicorn" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Ninja Cat Unicorn.svg?sanitize=true" /><img style="height: 2in;" alt="Teams" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Teams.svg?sanitize=true" /><img style="height: 2in;" alt="Visual Studio" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Visual Studio.svg?sanitize=true" />
+<img height="144" alt="Ninja Cat Unicorn (8-bit)" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Ninja Cat Unicorn (8-bit).svg?sanitize=true" /><img height="144" alt="Ninja Cat Unicorn" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Ninja Cat Unicorn.svg?sanitize=true" /><img height="144" alt="Teams" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Teams.svg?sanitize=true" /><img height="144" alt="Visual Studio" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Visual Studio.svg?sanitize=true" />
 </div>
 <div style="margin-top: -0.49in;">
-<img style="height: 2in;" alt="XBOX" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/XBOX.svg?sanitize=true" />
+<img height="144" alt="XBOX" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/XBOX.svg?sanitize=true" />
 </div>
