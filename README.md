@@ -1,4 +1,4 @@
- zu# MSFT-Hex-Stickers
+? zu# MSFT-Hex-Stickers
 
 It's very fashionable for tech folks to use hexagon-shaped stickers to tessellate their laptops.
 I wanted to create some hex stickers for fans of [Microsoft](https://github.com/microsoft) and, more specifically,
@@ -11,5 +11,5 @@ There are many places you can have these stickers printed.  I personally recomme
 
 ## Stickers in This Repo
 <div>
-<img alt="Azure Loves OSS" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Azure Loves OSS.svg" />
+<img alt="Azure Loves OSS" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Azure Loves OSS.svg?sanitize=true" />
 </div>
