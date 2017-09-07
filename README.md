@@ -11,6 +11,6 @@ There are many places you can have these stickers printed.  I personally recomme
 
 ## Stickers in This Repo
 <div>
-<img style="height: 2in;" alt="Azure Loves OSS" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Azure Loves OSS.svg?sanitize=true" />
+<img style="height: 144px;" alt="Azure Loves OSS" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Azure Loves OSS.svg?sanitize=true" />
 <img style="height: 2in;" alt="Azure Machine Learning" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Azure Machine Learning.svg?sanitize=true" />
 </div>
