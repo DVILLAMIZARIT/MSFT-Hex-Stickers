@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1.73in"
+   height="2in"
+   viewBox="0 0 43.942003 50.800002"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="Azure Functions (My Code).svg"
+   inkscape:export-filename="C:\Users\jepeach\Desktop\Azure Functions (No Problem).png"
+   inkscape:export-xdpi="424.85999"
+   inkscape:export-ydpi="424.85999">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.7747054"
+     inkscape:cx="53.040001"
+     inkscape:cy="83.522147"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="3000"
+     inkscape:window-height="1875"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-246.19998)">
+    <path
+       sodipodi:type="star"
+       style="fill:#066593;fill-opacity:1;stroke-width:0.20809446"
+       id="path821"
+       sodipodi:sides="6"
+       sodipodi:cx="97.673737"
+       sodipodi:cy="184.21606"
+       sodipodi:r1="112.78392"
+       sodipodi:r2="97.673744"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.0471976"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 195.34748,240.60803 97.673736,296.99998 -3.7838365e-6,240.60802 -3.2873954e-6,127.8241 97.673737,71.432144 195.34748,127.8241 Z"
+       transform="matrix(0.22494275,0,0,0.22520941,8.5114655e-7,230.11279)"
+       inkscape:label="Border Hex" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffffff;fill-opacity:0.94117647;stroke-width:0.20809446"
+       id="path821-6"
+       sodipodi:sides="6"
+       sodipodi:cx="97.673737"
+       sodipodi:cy="184.21606"
+       sodipodi:r1="112.78392"
+       sodipodi:r2="97.673744"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.0471976"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 195.34748,240.60803 97.673736,296.99998 -3.7838365e-6,240.60802 -3.2873954e-6,127.8241 97.673737,71.432144 195.34748,127.8241 Z"
+       transform="matrix(0.19854641,0,0,0.19878178,2.5782303,234.98118)"
+       inkscape:label="Inner Hex" />
+    <g
+       transform="matrix(0.31949512,0,0,0.31949512,11.747156,261.93898)"
+       id="g10"
+       inkscape:label="Azure Functions Logo">
+      <path
+         d="m 63.6,32.4 c 0.6,-0.6 0.5,-1.7 0,-2.3 L 60.5,27 46.7,13.6 C 46.1,13 45.2,13 44.5,13.6 v 0 c -0.6,0.6 -0.8,1.7 0,2.3 L 59,30.1 c 0.6,0.6 0.6,1.7 0,2.3 L 44.2,47.1 c -0.6,0.6 -0.6,1.7 0,2.3 v 0 c 0.6,0.6 1.7,0.5 2.2,0 L 60.1,35.8 c 0,0 0,0 0.1,-0.1 z"
+         id="path2"
+         inkscape:connector-curvature="0"
+         style="fill:#3999c6" />
+      <path
+         d="m 0.4,32.4 c -0.6,-0.6 -0.5,-1.7 0,-2.3 L 3.5,27 17.3,13.6 c 0.6,-0.6 1.5,-0.6 2.2,0 v 0 c 0.6,0.6 0.8,1.7 0,2.3 L 5.3,30.1 c -0.6,0.6 -0.6,1.7 0,2.3 l 14.5,14.7 c 0.6,0.6 0.6,1.7 0,2.3 v 0 c -0.6,0.6 -1.7,0.5 -2.2,0 L 3.6,36 c 0,0 0,0 -0.1,-0.1 z"
+         id="path4"
+         inkscape:connector-curvature="0"
+         style="fill:#3999c6" />
+      <polygon
+         points="20.4,61.5 48,22.4 34.6,22.4 47.6,2.5 28.1,2.5 17.6,32.1 30.4,32.2 "
+         id="polygon6"
+         style="fill:#fcd116" />
+      <polygon
+         enable-background="new    "
+         points="39.4,27.2 20.4,61.5 48,22.4 34.6,22.4 47.6,2.5 37.4,2.5 26.6,27.1 "
+         id="polygon8"
+         style="opacity:0.3;fill:#ff8c00" />
+    </g>
+    <g
+       aria-label="MY  CODE"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#066593;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text910">
+      <path
+         d="m 14.503583,261.22186 h -0.56913 v -2.23793 q 0,-0.27492 0.03376,-0.67283 h -0.0096 q -0.05306,0.22669 -0.09405,0.32556 l -1.032151,2.5852 H 12.43687 l -1.034562,-2.5659 q -0.04341,-0.11335 -0.09164,-0.34486 h -0.0096 q 0.01929,0.2074 0.01929,0.67765 v 2.23311 H 10.78977 v -3.45818 h 0.807875 l 0.909161,2.30304 q 0.103697,0.26527 0.135047,0.3955 h 0.01206 q 0.08923,-0.27251 0.144694,-0.40514 l 0.926042,-2.2934 h 0.778936 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.93888903px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Semi-Bold';fill:#066593;fill-opacity:1;stroke-width:0.26458332"
+         id="path926"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 17.76161,257.76368 -1.133437,2.20176 v 1.25642 h -0.573952 v -1.24437 l -1.104498,-2.21381 h 0.653535 l 0.680061,1.48311 q 0.01206,0.0265 0.07235,0.20016 h 0.0072 q 0.0217,-0.0772 0.07958,-0.20016 l 0.711412,-1.48311 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.93888903px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Semi-Bold';fill:#066593;fill-opacity:1;stroke-width:0.26458332"
+         id="path928"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 23.339564,261.07717 q -0.390673,0.20257 -0.971861,0.20257 -0.752409,0 -1.205784,-0.47508 -0.453374,-0.47508 -0.453374,-1.24678 0,-0.82958 0.508841,-1.34083 0.511252,-0.51125 1.290188,-0.51125 0.501606,0 0.83199,0.14228 v 0.56913 q -0.349677,-0.20739 -0.771701,-0.20739 -0.561895,0 -0.911572,0.35932 -0.347266,0.35932 -0.347266,0.9598 0,0.57154 0.325562,0.91158 0.325561,0.33761 0.856106,0.33761 0.489548,0 0.848871,-0.23151 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.93888903px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Semi-Bold';fill:#066593;fill-opacity:1;stroke-width:0.26458332"
+         id="path930"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 25.362868,261.27974 q -0.747585,0 -1.198548,-0.48472 -0.448552,-0.48473 -0.448552,-1.26125 0,-0.83441 0.458198,-1.33119 0.458198,-0.49678 1.244369,-0.49678 0.728293,0 1.172021,0.48231 0.44614,0.48232 0.44614,1.26125 0,0.84646 -0.455786,1.33842 -0.455786,0.49196 -1.217842,0.49196 z m 0.02653,-3.06992 q -0.475079,0 -0.774113,0.3545 -0.296623,0.3545 -0.296623,0.93327 0,0.57637 0.289388,0.92846 0.289388,0.35208 0.757232,0.35208 0.496783,0 0.783759,-0.3352 0.286977,-0.33521 0.286977,-0.9381 0,-0.61978 -0.279742,-0.95739 -0.27733,-0.33762 -0.766878,-0.33762 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.93888903px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Semi-Bold';fill:#066593;fill-opacity:1;stroke-width:0.26458332"
+         id="path932"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 27.670738,261.22186 v -3.45818 h 0.998389 q 1.912372,0 1.912372,1.68568 0,0.80064 -0.530544,1.28778 -0.530545,0.48472 -1.422825,0.48472 z m 0.571541,-2.97105 v 2.48633 h 0.458198 q 0.605303,0 0.940511,-0.3328 0.33762,-0.33279 0.33762,-0.94051 0,-1.21302 -1.256427,-1.21302 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.93888903px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Semi-Bold';fill:#066593;fill-opacity:1;stroke-width:0.26458332"
+         id="path934"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 33.15223,261.22186 h -1.941312 v -3.45818 h 1.864142 v 0.48713 h -1.290189 v 0.9791 h 1.188903 v 0.48472 h -1.188903 v 1.02251 h 1.367359 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.93888903px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Semi-Bold';fill:#066593;fill-opacity:1;stroke-width:0.26458332"
+         id="path936"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       aria-label="ON"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#066593;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text914">
+      <path
+         d="m 15.257164,286.61632 q -0.747586,0 -1.198549,-0.48473 -0.448551,-0.48472 -0.448551,-1.26125 0,-0.8344 0.458198,-1.33118 0.458197,-0.49678 1.244368,-0.49678 0.728293,0 1.172022,0.48231 0.44614,0.48231 0.44614,1.26125 0,0.84646 -0.455787,1.33842 -0.455786,0.49196 -1.217841,0.49196 z m 0.02653,-3.06993 q -0.475078,0 -0.774113,0.3545 -0.296622,0.3545 -0.296622,0.93328 0,0.57637 0.289388,0.92845 0.289388,0.35209 0.757232,0.35209 0.496783,0 0.783759,-0.3352 0.286976,-0.33521 0.286976,-0.9381 0,-0.61978 -0.279741,-0.9574 -0.277331,-0.33762 -0.766879,-0.33762 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.93888903px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Semi-Bold';fill:#066593;fill-opacity:1;stroke-width:0.26458332"
+         id="path939"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 20.497499,286.55844 h -0.627007 l -1.651924,-2.54179 q -0.0627,-0.0965 -0.103697,-0.20016 h -0.01447 q 0.01929,0.11093 0.01929,0.47508 v 2.26687 h -0.55466 v -3.45819 h 0.668004 l 1.596457,2.48151 q 0.101286,0.15434 0.130225,0.21221 h 0.0096 q -0.02412,-0.13745 -0.02412,-0.46543 v -2.22829 h 0.552249 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.93888903px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Semi-Bold';fill:#066593;fill-opacity:1;stroke-width:0.26458332"
+         id="path941"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(0.43926306,0,0,0.43926306,23.303727,280.78596)"
+       id="g851"
+       inkscape:label="Azure Logo"
+       style="fill:#066593;fill-opacity:1">
+      <polygon
+         id="polygon827"
+         points="9.35,2.68 7.33,8.24 11.21,12.87 3.65,14.2 16,14.2 "
+         style="fill:#066593;fill-opacity:1" />
+      <polygon
+         id="polygon829"
+         points="0,12.84 3.67,12.84 3.67,12.85 8.82,1.8 4.07,5.79 "
+         style="fill:#066593;fill-opacity:1" />
+    </g>
+  </g>
+</svg>
