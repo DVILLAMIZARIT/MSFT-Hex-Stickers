@@ -31,7 +31,8 @@ There are many places you can have these stickers printed.  I personally recomme
 <div>
 <img height="144" alt="Azure (Data Center)" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Azure (Data Center).svg?sanitize=true" />
 </div>
-----
+
+---
 
 Here are some of the stickers in action, making my laptop look super sweet!
 <img height="300px" alt="Microsoft hex stickers in action on my laptop" src="https://pbs.twimg.com/media/DJC6WooVAAAtjl0.jpg" />
