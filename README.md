@@ -26,9 +26,11 @@ There are many places you can have these stickers printed.  I personally recomme
 <img height="144" alt="Azure Cognitive Services" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Azure Cognitive Services.svg?sanitize=true" /><img height="144" alt="Azure Data Lake" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Azure Data Lake.svg?sanitize=true" /><img height="144" alt="Azure Functions (My Code)" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Azure Functions (My Code).svg?sanitize=true" /><img height="144" alt="Azure Functions (No Problem)" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Azure Functions (No Problem).svg?sanitize=true" />
 </div>
 <div>
-<img height="144" alt="Azure ML (Workbench)" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Azure ML (Workbench).svg?sanitize=true" /><img height="144" alt="Cosmos DB" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Cosmos DB.svg?sanitize=true" /><img height="144" alt="Keep Calm (Azure)" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Keep Calm (Azure).svg?sanitize=true" />
+<img height="144" alt="Azure ML (Workbench)" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Azure ML (Workbench).svg?sanitize=true" /><img height="144" alt="Cosmos DB" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Cosmos DB.svg?sanitize=true" /><img height="144" alt="Keep Calm (Azure)" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Keep Calm (Azure).svg?sanitize=true" /><img height="144" alt="Azure (New)" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Azure (New).svg?sanitize=true" />
 </div>
-
+<div>
+<img height="144" alt="Azure (Data Center)" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Azure (Data Center).svg?sanitize=true" />
+</div>
 ----
 
 Here are some of the stickers in action, making my laptop look super sweet!
