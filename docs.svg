@@ -14,7 +14,7 @@
    viewBox="0 0 43.942003 50.800002"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="docs.svg">
   <defs
      id="defs2" />
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.7747054"
-     inkscape:cx="44.533934"
+     inkscape:cx="2.1075273"
      inkscape:cy="68.840942"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -294,7 +294,8 @@
        aria-label="docs.microsoft.com"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.86666667;stroke:none;stroke-width:0.26458332"
        id="text4598"
-       inkscape:label="text">
+       inkscape:label="text"
+       transform="translate(0,-0.52916667)">
       <path
          d="M 8.8092204,285.3165 H 8.5267225 v -0.29973 h -0.00689 q -0.1963705,0.34107 -0.6063368,0.34107 -0.3324517,0 -0.5322673,-0.23599 -0.198093,-0.23771 -0.198093,-0.64596 0,-0.43752 0.2204862,-0.70107 0.2204861,-0.26355 0.5873887,-0.26355 0.3634576,0 0.5288222,0.28594 h 0.00689 v -1.09209 h 0.2824979 z m -0.2824979,-0.79754 v -0.26011 q 0,-0.21359 -0.1412489,-0.36173 -0.1412489,-0.14814 -0.3582899,-0.14814 -0.2583821,0 -0.4065212,0.18948 -0.1481391,0.18948 -0.1481391,0.52365 0,0.3049 0.1412489,0.48232 0.1429714,0.1757 0.3824056,0.1757 0.235989,0 0.3824055,-0.17053 0.1481391,-0.17054 0.1481391,-0.43064 z"
          style="font-size:3.52777767px;fill:#ffffff;fill-opacity:0.86666667;stroke-width:0.26458332"

@@ -32,6 +32,17 @@ There are many places you can have these stickers printed.  I personally recomme
 <img height="144" alt="Azure (Data Center)" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Azure (Data Center).svg?sanitize=true" />
 </div>
 
+### Wave 3
+<div>
+<img height="144" alt="Microsoft (Simple)" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Microsoft (Simple).svg?sanitize=true" /><img height="144" alt="Azure Databricks" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Azure Databricks.svg?sanitize=true" /><img height="144" alt="Microsoft (Simple)" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Azure Streams and Lakes.svg?sanitize=true" /><img height="144" alt="Microsoft (Simple)" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Power BI.svg?sanitize=true" />
+</div>
+<div>
+<img height="144" alt="Microsoft (Simple)" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/docs.svg?sanitize=true" /><img height="144" alt="Microsoft (Simple)" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Channel 9.svg?sanitize=true" /><img height="144" alt="Microsoft (Simple)" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Brady.svg?sanitize=true" /><img height="144" alt="Microsoft (Simple)" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/CNTK.svg?sanitize=true" />
+</div>
+<div>
+<img height="144" alt="Microsoft (Simple)" src="https://github.com/AnalyticJeremy/MSFT-Hex-Stickers/raw/master/Azure Stream Analytics.svg?sanitize=true" />
+</div>
+
 ---
 
 Here are some of the stickers in action, making my laptop look super sweet!
