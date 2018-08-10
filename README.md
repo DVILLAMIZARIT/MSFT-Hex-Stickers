@@ -7,7 +7,7 @@ the Microsoft Azure cloud platform.
 These stickers are designed to the same specifications as the excellent stickers in
 [maxogden](https://github.com/maxogden)'s [hexbin](https://github.com/maxogden/hexbin) repository.
 
-There are many places you can have these stickers printed.  I personally recommend [Sticker Mule](https://www.stickermule.com/).
+There are many places you can have these stickers printed.  I personally recommend [Sticker Mule](https://www.stickermule.com/uses/hexagon-stickers).
 
 ## Stickers in This Repo
 ### Wave 1
